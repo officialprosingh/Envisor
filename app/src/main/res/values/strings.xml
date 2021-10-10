@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Planner</string>
+
+    <string name="name">Name</string>
+    <string name="email">E-Mail</string>
+    <string name="password">Password</string>
+    <string name="dnumber">Phone Number</string>
+    <string name="cacc">Create A Account !</string>
+    <string name="faq">FAQ</string>
+    <string name="language">Change Language</string>
+    <string name="join">JOIN GOODR</string>
+    <string name="signedup">Already Signed Up !</string>
+    <string name="back">Go Back</string>
+    <string name="share">Share it with your friends</string>
+    <string name="welcome">Welcome</string>
+    <string name="sign">Sign up</string>
+    <string name="login">Login</string>
+    <string name="help">Need Help?</string>
+    <string name="swelcome">Welcome</string>
+
+
+    ---Main Page ----
+    <string name="add">Add Tasks</string>
+
+    <string name="delete_confirmation">Confirmation</string>
+    <string name="sureToDelete">Are you sure you want to delete the task</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="confirmation">Completed the task!..</string>
+    <string name="sureToMarkAsComplete">Are you sure you want to mark this task as completed.</string>
+    <string name="congrats_you_have_completed_the_task_successfully">Congrats!... You have completed the task successfully, You have gained 10 Points</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_navpro">NavproActivity</string>
+
+
+</resources>
